@@ -49,6 +49,8 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-remote-theme
+ - jekyll-sitemap
+ - jemoji
 
 remote_theme: songzivong/dark-minima
 
