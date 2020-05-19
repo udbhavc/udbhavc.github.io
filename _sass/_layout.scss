@@ -3,7 +3,7 @@
  */
 .site-header {
     // border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 0.5px solid $brand-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -33,7 +33,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $brand-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -98,7 +98,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 0.5px solid $brand-color;
     padding: $spacing-unit 0;
 }
 
@@ -215,6 +215,7 @@
 
 .post-title {
     font-size: 32px;
+    color: $brand-color;
     letter-spacing: -1px;
     line-height: 1;
 
