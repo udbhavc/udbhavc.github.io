@@ -12,6 +12,9 @@
       </div>
       <div class="footer-col footer-col-1">
         <ul class="social-media-list">
+          <div class="social-links">
+            {%- include social.html -%}
+         </div>
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -44,9 +47,7 @@
         {% endif %}
         </ul>
       </div>
-       <div class="social-links">
-      {%- include social.html -%}
-       </div>
+       
       
       
     </div>
