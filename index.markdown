@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg ">
+<img style="float: right; width: 35%; padding: 5px;" src="{{ site.url }}/assets/profile.jpg ">
 
 My name is Udbhav Chitrasnh, and I am a first year undergrad student at [MNIT Jaipur](http://http://mnit.ac.in/) , pursuing Engineering .
 My interests lie in Neural Networks and Deep-Learning and I am currently Pursuing [Andrew Ng's Course on ML](https://www.coursera.org/instructor/andrewng). I Enjoy Web- Development as well. .
