@@ -4,5 +4,5 @@
 @charset "utf-8";
 
 @import
-  "/_sass/skins/{{ site.minima.skin | default: 'classic' }}",
-  "/_sass/initialize";
+  "_sass/skins/{{ site.minima.skin | default: 'classic' }}",
+  "_sass/initialize";
