@@ -15,6 +15,8 @@ My Favourite Animes being Naruto, Death-Note and Full-Metal Alchemist.
 
 The best way to contact me is through mail and instagram dms although you can contact me on other social links but the these two are most preferable.
 
+#### What's New
+
 <div style="height:250px;overflow:auto;">
 <table>
 <col width="100px">
