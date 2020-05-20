@@ -3,5 +3,5 @@
 ---
 
 @import
-  "_sass/skins/{{ site.minima.skin | default: 'classic' }}",
-  "_sass/initialize";
+  "{{ site.minima.skin | default: 'classic' }}",
+  "initialize";
