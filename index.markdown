@@ -19,9 +19,9 @@ The links to all my [Blog](https://udbhavc.github.io/archive.html)
 
 #### What's New
 
-<div style="height:100px;overflow:auto;">
+<div style="height:175px;overflow:auto;">
 <table>
-<col width="10px">
+<col width="75px">
 <col width="650px">
 <tr><td><b>May 2020:</b></td><td>The birth of theLastblog , with a <a href="https://udbhavc.github.io/2020/05/20/welcome-to-the-blog.html">Welcome Post</a></td></tr>
 <tr><td><b>May 2020:</b></td><td>Updated <a href="https://udbhavc.github.io/2020/05/20/welcome-to-the-blog.html">About</a> section to match HomePage. </td></tr>
