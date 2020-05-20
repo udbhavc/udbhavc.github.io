@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img style="float: right; width: 35%; padding: 5px;" src="{{ site.url }}/assets/profile.jpg ">
+<img style="float: right; width: 35%; padding: 5px;" src="{{ site.url }}/assets/profile.jpg">
 
 My name is Udbhav Chitrasnh, and I am a first year undergrad student at [MNIT Jaipur](http://http://mnit.ac.in/) , pursuing Engineering .
 My interests lie in Neural Networks and Deep-Learning and I am currently Pursuing [Andrew Ng's Course on ML](https://www.coursera.org/instructor/andrewng). I Enjoy Web- Development as well. .
@@ -21,6 +21,6 @@ The best way to contact me is through mail and instagram dms although you can co
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>May 2020:</b></td><td>The birth of theLastblog , with a  (<a href="https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit">slides</a>)</td></tr>
+<tr><td><b>May 2020:</b></td><td>The birth of theLastblog , with a<a href="https://udbhavc.github.io/2020/05/20/welcome-to-the-blog.html">Welcome Post</a></td></tr>
 
 
