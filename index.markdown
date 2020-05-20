@@ -15,12 +15,15 @@ My Favourite Animes being Naruto, Death-Note and Full-Metal Alchemist.
 
 The best way to contact me is through mail and instagram dms although you can contact me on other social links but the these two are most preferable.
 
+The links to all my [Blog](https://udbhavc.github.io/archive.html)
+
 #### What's New
 
 <div style="height:250px;overflow:auto;">
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>May 2020:</b></td><td>The birth of theLastblog , with a<a href="https://udbhavc.github.io/2020/05/20/welcome-to-the-blog.html">Welcome Post</a></td></tr>
+<tr><td><b>May 2020:</b></td><td>The birth of theLastblog , with a <a href="https://udbhavc.github.io/2020/05/20/welcome-to-the-blog.html">Welcome Post</a></td></tr>
+<tr><td><b>May 2020:</b></td><td>Updated <a href="https://udbhavc.github.io/2020/05/20/welcome-to-the-blog.html">About</a> section to match HomePage. </td></tr>
 
 
