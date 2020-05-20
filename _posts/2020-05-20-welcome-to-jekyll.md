@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome!"
 date:   2020-05-20 03:16:18 +0530
 tags : Welcome, New
 ---
