@@ -11,9 +11,10 @@ My name is Udbhav Chitransh, and I am a first year undergrad student at [MNIT Ja
 My interests lie in Neural Networks and Deep-Learning and I am currently Pursuing [Andrew Ng's Course on ML](https://www.coursera.org/instructor/andrewng). I Enjoy Web- Development as well. .
 
 I am an avid reader and besides, being a big Potterhead. I love reading Manga and Watching Animes.
-My Favourite Animes being Naruto, Death-Note and Full-Metal Alchemist.
+My Favourite Animes being Naruto, Death-Note and Full-Metal Alchemist.If you are keen about my anime interests make sure to check [MyAnimeList](https://myanimelist.net/animelist/ImHokage)
 
-The best way to contact me is through mail and instagram dms although you can contact me on other social links but the these two are most preferable.
+
+The best way to contact me is through mail and social dms.
 
 The links to all my [Blog](https://udbhavc.github.io/archive.html)
 
