@@ -10,9 +10,7 @@ Not a day goes by when I'm not trolled by my plebian normies;for watching anime,
 
 1. Amount of Creativity
 Western shows often lack creativity due to lack of original storyline, or various settings, hate it or love it one of the major reasons why series like Avengers, Lord of the Rings, Harry Potter and Star Wars were so successful was the out of the trade story line, action sequences.
-
 I feel animation as a whole is a good medium to tell a story with. Right off the bat you are not bounded by real world laws or physics. You can tell stories that include magic or sorts and it won't look out of place in animations. Sadly the western side doesn't really use this medium much.
-
 That's where anime comes in. Not saying I watch anime because of the lack of western animation, but this is where I can find stories that aren't limited by anything. All the different types of stories that you are able to tell with just ONE medium surprises me. It helps that many good stories exist through anime too. All the more reason I watch anime.
 
 2. Character Development
@@ -25,8 +23,8 @@ When was the last show on sports you plebians watched? Haikyuu one of the most w
 4. Amazing Soundtracks and Openings
 Yeah! One of the major reasons I'm hooked to animes is their soundtracks and openings thye provide so much deeper meaning to scene instantly. Imagine Interstellar without Hans Zimmer it would be so difficult to get those emotions into the scenes
 
-Lastly one of the major reasons is because it is fun, having fun is really important, its all about finding the right fit for your choice and once you are hooked there is no turning back
+Lastly one of the major reason is because it is fun, having fun is really important, its all about finding the right fit for your choice and once you are hooked there is no turning back.
 
-<img style="float: bottom; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/Naruto thumbs up.jpg ">
+<img style="float: bottom; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/Naruto.jpg ">
 
 P.S. Dattebayo! Stay Safe !! <3
