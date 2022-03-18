@@ -44,11 +44,11 @@ P.s. quordle makes my head ache sometimes, hurting a lot these days tho.\
 Also notice the date.
 
 
-## 04/03/2022, and the following weekend\
+## 04/03/2022, and the following weekend
 Just had my Hachiman, Miyamura and yada yada yada moment but i reacted irrationally weirdchamp
 All good, day well spent, reminder to not always joke around and be douche. The weekend was very tiring and eventful, with the workload and no time to go out even if I wanted to, so no complaints from my side, I started rewatching oregairu cause why not? Honestly because I didn't want to not start anything because the new Kaguya-Sama season  and SpyxFamily comes next month and also Komi-San cour 2 in April (iirc) and 86 coming from hiatus next week. It's the spring Season baby LFG.
 
-## 12/03/2022-15/02/2022\
+## 12/03/2022-15/02/2022
 Holi break followed by episode 22 of 86, imho if she watched 86 in the era of AoT she is the one.
 Just got off watching the latest episode of 86, the symbolism of the black-bars changing into white when Lena acknowledges Shin, symbolism of the red spider lily. It's too much man, just too much.\
 The new glasses came and my head hurts a ton, please get me out of this misery, also twitter should get a restricting feature where my certain tweets are not visible to some people.
@@ -58,6 +58,7 @@ Happy Holi Guys!!, this was very raw, i just wanted to blog something so got my 
 
 Also this ilysmbidkhttybikydlmb <3, please don't google this.PLEASE\
 P.s searching for anime pic was never so hard, also Bdae Blog soon??\
+<3
 ![just leaving yukino-san here t.c. <](/assets/images/yukino.jpg)
 
 
