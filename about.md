@@ -15,4 +15,4 @@ My Favourite Animes in no particular order being Naruto, Death-Note, Haikyuu, Ka
 
 
 The best way to contact me is through mail and social media dms.
-![image](/assets/images/profile.jpg ){:height="360px" width="360px"}
+![image](/assets/images/profile.jpg ){:height="360px" width="450px" align = left}
