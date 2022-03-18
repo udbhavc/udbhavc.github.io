@@ -50,7 +50,7 @@ Happy Holi Guys!!, this was very raw, i just wanted to blog something so got my 
 
 Also this ilysmbidkhttybikydlmb <3, please don't google this.PLEASE\
 P.s searching for anime pic was never so hard, also Bdae Blog soon??\
-<img src= "{{ site.url }}/assets/images/yukino.jpg">
+![image](/assets/images/yukino.jpg)
 P.p.s just leaving yukino-san here t.c.
 
 
