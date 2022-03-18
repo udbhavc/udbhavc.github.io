@@ -14,7 +14,7 @@ date: 2021-10-08
 revised: 2021-10-28
 ---
 
-My name is Udbhav Chitransh, and I'm currently a undergrad student at [MNIT Jaipur](http://http://mnit.ac.in/) , pursuing Engineering .
+My name is Udbhav Chitransh, and I'm currently a undergrad student at [MNIT Jaipur](http://mnit.ac.in/) , pursuing Engineering .
 My interests are varied: I enjoy Web - Development, recently i have taken interest in web3,Blockchain and Data Science in general.
 
 I am an avid reader and besides being a big Potterhead. I love reading Manga and watching Animes. I game a lot; mostly fps and rpg .
