@@ -1,11 +1,11 @@
 ---
 layout: about
 title: About
-banner: /assets/sakura.jpg
+banner: /assets/images/banners/nightescape.webp
 date: 2021-10-08
 revised: 2021-10-28
 ---
-
+![image](/assets/images/profile.jpg)
 My name is Udbhav Chitransh, and I'm currently a undergrad student at [MNIT Jaipur](http://http://mnit.ac.in/) , pursuing Engineering .
 My interests are varied: I enjoy Web - Development, recently i have taken interest in web3,Blockchain and Data Science in general.
 
