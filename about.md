@@ -1,7 +1,15 @@
 ---
 layout: about
-title: About
-banner: /assets/images/banners/nightescape.webp
+title: About Me
+subtitle: The fate of those who seek revenge is grim. It's tragic, You will end up suffering and hurting yourself even more. Even if you do succeed in getting revenge, the only thing that remains is emptiness. 
+banner: 
+  image: /assets/images/banners/nightescape.webp
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 date: 2021-10-08
 revised: 2021-10-28
 ---
@@ -14,5 +22,6 @@ I am an avid reader and besides being a big Potterhead. I love reading Manga and
 My Favourite Animes in no particular order being Naruto, Death-Note, Haikyuu, Kaguya-Sama and Full-Metal Alchemist.If you are keen about animes and manga make sure to check [MyAnimeList](https://myanimelist.net/animelist/ImHokage), I frequently update this list.
 
 
-The best way to contact me is through mail and social media dms.
-![image](/assets/images/profile.jpg ){:height="360px" width="450px" align = left}
+The best way to contact me is through mail and [twitter dms](https://twitter.com/udbhavch1transh).
+
+Sayonara!!
