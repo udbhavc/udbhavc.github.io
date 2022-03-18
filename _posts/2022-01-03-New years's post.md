@@ -14,6 +14,6 @@ Also the latest season of Demon Slayer is airing right now so I was kinda hyped 
 
 This was a life update blog so will keep it short and trust me this time I am going to be regular; until next time here is the customary anime pic
 
-<img style="float: bottom; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/Tanjiro.jpg ">
+![image](/assets/images/Tanjiro.jpg)
 
 P.S. Hinokami Kagura <3

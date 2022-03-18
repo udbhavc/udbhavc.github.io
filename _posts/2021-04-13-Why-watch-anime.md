@@ -25,6 +25,6 @@ Yeah! One of the major reasons I'm hooked to animes is their soundtracks and ope
 
 Lastly one of the major reason is because it is fun, having fun is really important, its all about finding the right fit for your choice and once you are hooked there is no turning back.
 
-<img style="float: bottom; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/Naruto.jpg ">
+![image](assets/images/Naruto.jpg)
 
 P.S. Dattebayo! Stay Safe !! <3
