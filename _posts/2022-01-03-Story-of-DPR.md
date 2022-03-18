@@ -8,7 +8,7 @@ The trade route which connected medieval western countries to the east also know
 
 It is 2010 and a new certain currency known as Bitcoin was gaining traction, the selling point of this currency was the anonymity it gave to people currency not being centralised people started showing interest. Ross Ulbricht, took a keen interest in cryptocurrency particularly Bitcoin. Ross, also known as Dread Pirate Roberts, had started various new ventures but all failed to give any profits, he started interacting on bitcointalk.org, in October 2011 he made the last post on the website, but the most interesting one.
 
-<img style="float: bottom; width: 150%; height: 200%; padding: px;" src=" {{ site.url }}/assets/altoid.png ">
+<img style="float: bottom; width: 150%; height: 200%; padding: px;" src="/assets/images/altoid.png ">
 
 Going by the username “altoid” he seeked technical help for a bitcoin based venture, thereby laying foundations for what will be later known as Silk Road.
 
@@ -28,6 +28,6 @@ When the FBI caught DPR and got a hold of his pc there was charges of murder aga
 
 Some things to be noted, DPR had a tendency to overlook details, he leaked his personal address on a public forum, got scammed and was oblivious all along. The thing which surprised me the most was the lengths at which he could go to reach his goal of making Silk Road an underground empire, but all of this was in vain, and the FBI caught him for good. DPR now serves life imprisonment with no parole, while his family and various other NGOs fight for his justice, there is altogether a different take which his family have of DPR and his situation, and I was surprised by the amount of support they have, FBI completely shut the SIlk Road, but that didn't stop anything, various other such sites have come up over the time.
 
-<img style="float: bottom; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/l.webp ">
+<img style="float: bottom; width: 35%; padding: 5px;" src=" /assets/images/l.webp ">
 
 P.S. Watch Attack on Titan * _ *
