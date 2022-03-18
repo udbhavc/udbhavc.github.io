@@ -5,7 +5,7 @@ banner: /assets/images/banners/nightescape.webp
 date: 2021-10-08
 revised: 2021-10-28
 ---
-![image](/assets/images/profile.jpg)
+
 My name is Udbhav Chitransh, and I'm currently a undergrad student at [MNIT Jaipur](http://http://mnit.ac.in/) , pursuing Engineering .
 My interests are varied: I enjoy Web - Development, recently i have taken interest in web3,Blockchain and Data Science in general.
 
@@ -15,3 +15,4 @@ My Favourite Animes in no particular order being Naruto, Death-Note, Haikyuu, Ka
 
 
 The best way to contact me is through mail and social media dms.
+![image](/assets/images/profile.jpg ){:height="360px" width="360px"}
