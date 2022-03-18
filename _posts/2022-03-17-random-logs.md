@@ -4,7 +4,7 @@ title: Logging Larry
 subtitle: Heyaaa
 author: Udbhav
 categories: raw
-banner: /assets/images/banner/sakura.jpg
+banner: /assets/images/banners/sakura.jpg
 ---
 
 EDIT- 3/16/2022
